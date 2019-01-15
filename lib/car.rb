@@ -1,3 +1,3 @@
 class Car < Vehicle
- 
+
 end
